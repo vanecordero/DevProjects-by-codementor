@@ -1,6 +1,6 @@
 # DevProjects by Codementor Solutions
 
-👩‍💻 DevProjects by Codementor improve the programming skills by working on real-world projects. 
+DevProjects by Codementor improve the programming skills by working on real-world projects. 
 
 | Difficulty   | Table of Contents                                                     |
 | ----------   | --------------------------------------------------------------------- |
