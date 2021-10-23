@@ -22,4 +22,4 @@ DevProjects by Codementor improve the programming skills by working on real-worl
 - Repository URL: [https://github.com/vanecordero/Robot-joke](https://github.com/vanecordero/Robot-joke)
 - Challenge URL: [https://www.codementor.io/projects/web/joke-telling-bot-web-app-cjd2eyrfak](https://www.codementor.io/projects/web/joke-telling-bot-web-app-cjd2eyrfak)
 
-<img src="https://user-images.githubusercontent.com/47092867/138565403-779b6153-62de-4e8e-a61a-379a3bd28b91.png" width="350"/>
+<img src="https://user-images.githubusercontent.com/47092867/138566950-ca4c4e0a-b126-47e2-ab5d-8a913b8927d9.png" width="350"/>
